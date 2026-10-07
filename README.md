@@ -93,8 +93,7 @@ makeup-data-analysis/
 │   ├── makeup_dashboard.pbix
 │   └── powerbi_dashboard.png
 │
-├── README.md
-└── requirements.txt
+└── README.md
 ```
 
 ## Key Skills Demonstrated
