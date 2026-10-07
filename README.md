@@ -119,3 +119,5 @@ This project demonstrates experience with:
 The goal of this project is to use data to evaluate whether the higher price of professional makeup is supported by higher ratings and better overall value.
 
 The analysis demonstrates how raw product data can be transformed into meaningful insights that can support consumer and business decision-making.
+
+To answer the main question no drugstore makeup is not worth the cost because when comparing the premium prices and ratings there is a much larginer price margin compared to ratings.
